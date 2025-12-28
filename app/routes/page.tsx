@@ -35,10 +35,10 @@ export default function RoutesPage() {
             Route Pricing
           </h1>
           <Link
-            href="/"
+            href="/operator"
             className="bg-black text-white px-8 py-3 rounded-2xl font-bold border-b-4 border-gray-700 hover:scale-105 transition-all"
           >
-            ← DASHBOARD
+            ← OPERATOR DASHBOARD
           </Link>
         </div>
 
